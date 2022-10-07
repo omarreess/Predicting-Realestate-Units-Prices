@@ -3,10 +3,11 @@ A Data Science project for predicting Real estate Units Prices using Classical M
 
 # Using Machine Learing Algorithms 
  - Pre-processing The Data
+ - Model Selection
+ - Neural Network Model
  - Linear & Polynomial Regression 
  - Classification Regressors
  - Ensemble Learning
- - Model Selection
 
 
 Kaggle Notebook : 
